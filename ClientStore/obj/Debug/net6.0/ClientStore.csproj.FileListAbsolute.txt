@@ -1,0 +1,141 @@
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.staticwebassets.runtime.json
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.exe
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.deps.json
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.dll
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.pdb
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets\msbuild.ClientStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets\msbuild.build.ClientStore.props
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClientStore.props
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClientStore.props
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\scopedcss\bundle\ClientStore.styles.css
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\scopedcss\projectbundle\ClientStore.bundle.scp.css
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.dll
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\refint\ClientStore.dll
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.pdb
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\obj\Debug\net6.0\ref\ClientStore.dll
+C:\Users\Lenovo\source\repos\ClientStore\ClientStore\bin\Debug\net6.0\Dapper.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\appsettings.Development.json
+D:\ClientStore\ClientStore\bin\Debug\net6.0\appsettings.json
+D:\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.staticwebassets.runtime.json
+D:\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.exe
+D:\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.deps.json
+D:\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.runtimeconfig.json
+D:\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.pdb
+D:\ClientStore\ClientStore\bin\Debug\net6.0\Dapper.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.csproj.AssemblyReference.cache
+D:\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.AssemblyInfoInputs.cache
+D:\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.AssemblyInfo.cs
+D:\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.csproj.CoreCompileInputs.cache
+D:\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.MvcApplicationPartsAssemblyInfo.cache
+D:\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.RazorAssemblyInfo.cache
+D:\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.RazorAssemblyInfo.cs
+D:\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets\msbuild.ClientStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets\msbuild.build.ClientStore.props
+D:\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClientStore.props
+D:\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClientStore.props
+D:\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ClientStore\ClientStore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\ClientStore\ClientStore\obj\Debug\net6.0\scopedcss\bundle\ClientStore.styles.css
+D:\ClientStore\ClientStore\obj\Debug\net6.0\scopedcss\projectbundle\ClientStore.bundle.scp.css
+D:\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.csproj.CopyComplete
+D:\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.dll
+D:\ClientStore\ClientStore\obj\Debug\net6.0\refint\ClientStore.dll
+D:\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.pdb
+D:\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.genruntimeconfig.cache
+D:\ClientStore\ClientStore\obj\Debug\net6.0\ref\ClientStore.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\System.Text.Json.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ClientStore\ClientStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\appsettings.Development.json
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\appsettings.json
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.staticwebassets.runtime.json
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.exe
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.deps.json
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.runtimeconfig.json
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\ClientStore.pdb
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\Dapper.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\System.Text.Json.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\success run project\ClientStore\ClientStore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.csproj.AssemblyReference.cache
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.AssemblyInfoInputs.cache
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.AssemblyInfo.cs
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.csproj.CoreCompileInputs.cache
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.MvcApplicationPartsAssemblyInfo.cache
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.RazorAssemblyInfo.cache
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.RazorAssemblyInfo.cs
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets\msbuild.ClientStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets\msbuild.build.ClientStore.props
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClientStore.props
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClientStore.props
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\scopedcss\bundle\ClientStore.styles.css
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\scopedcss\projectbundle\ClientStore.bundle.scp.css
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.csproj.CopyComplete
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.dll
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\refint\ClientStore.dll
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.pdb
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\ClientStore.genruntimeconfig.cache
+D:\success run project\ClientStore\ClientStore\obj\Debug\net6.0\ref\ClientStore.dll
